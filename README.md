@@ -19,7 +19,8 @@ This repository showcases my project where I fine-tuned the **BERT (Bidirectiona
 
 ### 📂 What’s Included:
 - **`Legal_BERT.ipynb`**: The Jupyter Notebook containing the full workflow, from data preprocessing to model fine-tuning and evaluation.
-- **Dataset**: The legal dataset used for training the model. 
+- **Dataset**: The legal dataset used for training the model is the [Swiss Judgment Prediction dataset](https://huggingface.co/datasets/rcds/swiss_judgment_prediction).
+
 
 All the **requirements** and **dependencies** are outlined within the **`Legal_BERT.ipynb`** file.
 

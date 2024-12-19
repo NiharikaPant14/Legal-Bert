@@ -1,4 +1,4 @@
-# 🏛️ Legal BERT: Fine-Tuning BERT for Legal Text Analysis  
+# 🏛️ Legal BERT: Fine-Tuning BERT for Legal Text Analysis 
 
 This repository showcases my project where I fine-tuned the **BERT (Bidirectional Encoder Representations from Transformers)** model for **legal text analysis**. The objective was to leverage NLP techniques to process and understand complex legal documents effectively.
 
